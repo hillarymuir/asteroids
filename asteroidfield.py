@@ -1,4 +1,4 @@
-# written by boot.dev
+# asteroidfield.py
 
 import pygame
 import random
